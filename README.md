@@ -12,6 +12,13 @@ O foco não é apenas resolver os problemas, mas **registrar a transição do c�
 - Organização de código
 - Boas práticas progressivas
 
+## Projetos
+
+### Maior Área Entre Dois Triângulos
+- **Descrição:** Cálculo e comparação da área de dois triângulos usando a fórmula de Heron.
+- **Conceitos abordados:** Procedural → Classes → Métodos.
+- **Repositório:** [link][1].
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -30,3 +37,5 @@ Este índice serve como:
 - Registro público de evolução técnica
 
 Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versão**.
+
+[1]: https://github.com/jspneto/csharp-estudos-maior-area-entre-dois-triangulos "projeto"
