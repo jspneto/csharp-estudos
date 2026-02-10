@@ -14,10 +14,13 @@ O foco não é apenas resolver os problemas, mas **registrar a transição do c�
 
 ## Projetos
 
-### Maior Área Entre Dois Triângulos
+### [Maior Área Entre Dois Triângulos][1]
 - **Descrição:** Cálculo e comparação da área de dois triângulos usando a fórmula de Heron.
 - **Conceitos abordados:** Procedural → Classes → Métodos.
-- **Repositório:** [link][1].
+
+### [Controle de Estoque Básico][2]
+- **Descrição:** Exibe os dados de um produto e permite adicionar e remover os itens em estoque.
+- **Conceitos abordados:** Classes/Métodos → Override.
 
 ## Organização e Versionamento
 
@@ -39,3 +42,5 @@ Este índice serve como:
 Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versão**.
 
 [1]: https://github.com/jspneto/csharp-estudos-maior-area-entre-dois-triangulos "projeto"
+
+[2]: https://github.com/jspneto/csharp-estudos-controle-de-estoque-basico "projeto"
