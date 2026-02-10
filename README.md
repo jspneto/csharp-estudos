@@ -16,7 +16,7 @@ O foco não é apenas resolver os problemas, mas **registrar a transição do c�
 
 ### [Maior Área Entre Dois Triângulos][1]
 - **Descrição:** Cálculo e comparação da área de dois triângulos usando a fórmula de Heron.
-- **Conceitos abordados:** Procedural → Classes → Métodos.
+- **Conceitos abordados:** Procedural → Classes → Métodos → Override.
 
 ### [Controle de Estoque Básico][2]
 - **Descrição:** Exibe os dados de um produto e permite adicionar e remover os itens em estoque.
