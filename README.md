@@ -20,7 +20,11 @@ O foco não é apenas resolver os problemas, mas **registrar a transição do c�
 
 ### [Controle de Estoque Básico][2]
 - **Descrição:** Exibe os dados de um produto e permite adicionar e remover os itens em estoque.
-- **Conceitos abordados:** Classes/Métodos → Override.
+- **Conceitos abordados:** Métodos → Override.
+
+### [Métricas de um Retângulo][3]
+- **Descrição:** Calcula área, perímetro e diagonal de um retângulo a partir das entradas de console.
+- **Conceitos abordados:** Override.
 
 ## Organização e Versionamento
 
@@ -44,3 +48,5 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 [1]: https://github.com/jspneto/csharp-estudos-maior-area-entre-dois-triangulos "projeto"
 
 [2]: https://github.com/jspneto/csharp-estudos-controle-de-estoque-basico "projeto"
+
+[3]: https://github.com/jspneto/csharp-estudos-metricas-de-um-retangulo "projeto"
