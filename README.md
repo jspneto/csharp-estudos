@@ -20,7 +20,7 @@ O foco não é apenas resolver os problemas, mas **registrar a transição do c�
 
 ### [Controle de Estoque Básico][2]
 - **Descrição:** Exibe os dados de um produto e permite adicionar e remover os itens em estoque.
-- **Conceitos abordados:** Métodos → Override.
+- **Conceitos abordados:** Métodos → Override → Construtores → Sobrecarga → Encapsulamento → Properties → Auto-Properties.
 
 ### [Métricas de um Retângulo][3]
 - **Descrição:** Calcula área, perímetro e diagonal de um retângulo a partir das entradas de console.
