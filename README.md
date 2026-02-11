@@ -26,7 +26,7 @@ O foco não é apenas resolver os problemas, mas **registrar a transição do c�
 - **Descrição:** Calcula área, perímetro e diagonal de um retângulo a partir das entradas de console.
 - **Conceitos abordados:** Override.
 
-### [Cálculo de Aumento Salarial][4]
+### [Cálculo do Aumento Salarial][4]
 - **Descrição:** Calcula e exibe o salário líquido de um funcionário após um reajuste salarial.
 - **Conceitos abordados:** Override.
 
@@ -59,6 +59,6 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 
 [3]: https://github.com/jspneto/csharp-estudos-metricas-de-um-retangulo "projeto"
 
-[4]: https://github.com/jspneto/csharp-estudos-calculo-de-aumento-salarial "projeto"
+[4]: https://github.com/jspneto/csharp-estudos-calculo-do-aumento-salarial "projeto"
 
 [5]: https://github.com/jspneto/csharp-estudos-calculo-da-nota-final "projeto"
