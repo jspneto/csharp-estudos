@@ -30,6 +30,10 @@ O foco não é apenas resolver os problemas, mas **registrar a transição do c�
 - **Descrição:** Calcula e exibe o salário líquido de um funcionário após um reajuste salarial.
 - **Conceitos abordados:** Override.
 
+### [Cálculo da Nota Final][5]
+- **Descrição:** Calcula a nota geral de um aluno e exibe sua situação ao final no ano letivo.
+- **Conceitos abordados:** Override.
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -56,3 +60,5 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 [3]: https://github.com/jspneto/csharp-estudos-metricas-de-um-retangulo "projeto"
 
 [4]: https://github.com/jspneto/csharp-estudos-calculo-de-aumento-salarial "projeto"
+
+[5]: https://github.com/jspneto/csharp-estudos-calculo-da-nota-final "projeto"
