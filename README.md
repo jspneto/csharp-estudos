@@ -34,6 +34,10 @@ O foco não é apenas resolver os problemas, mas **registrar a transição do c�
 - **Descrição:** Calcula a nota geral de um aluno e exibe sua situação ao final no ano letivo.
 - **Conceitos abordados:** Override.
 
+### [Circunferência e Volume de uma Esfera][6]
+- **Descrição:** Calcula a circunferência e o volume de uma esfera a partir do raio.
+- **Conceitos abordados:** Static (x3).
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -62,3 +66,5 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 [4]: https://github.com/jspneto/csharp-estudos-calculo-do-aumento-salarial "projeto"
 
 [5]: https://github.com/jspneto/csharp-estudos-calculo-da-nota-final "projeto"
+
+[6]: https://github.com/jspneto/csharp-estudos-circunferencia-e-volume-de-uma-esfera "projeto"
