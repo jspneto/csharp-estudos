@@ -38,6 +38,10 @@ O foco não é apenas resolver os problemas, mas **registrar a transição do c�
 - **Descrição:** Calcula a circunferência e o volume de uma esfera a partir do raio.
 - **Conceitos abordados:** Static (x3).
 
+### [Conversor de Moeda Simples][7]
+- **Descrição:** Converte dólar para real e aplica o imposto IOF sobre o resultado da conversão.
+- **Conceitos abordados:** Static.
+
 ## Organização e Versionamento
 
 Cada projeto possui seu próprio versionamento baseado em tags:
@@ -68,3 +72,5 @@ Nada aqui nasce perfeito — a ideia é **melhorar conscientemente a cada versã
 [5]: https://github.com/jspneto/csharp-estudos-calculo-da-nota-final "projeto"
 
 [6]: https://github.com/jspneto/csharp-estudos-circunferencia-e-volume-de-uma-esfera "projeto"
+
+[7]: https://github.com/jspneto/csharp-estudos-conversor-de-moeda-simples "projeto"
